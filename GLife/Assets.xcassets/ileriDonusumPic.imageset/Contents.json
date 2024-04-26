@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Ekran görüntüsü 2024-04-25 111853.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
